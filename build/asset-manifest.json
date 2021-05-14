@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/yaziturareact/static/css/main.fea49381.chunk.css",
+    "main.js": "/yaziturareact/static/js/main.5476e82f.chunk.js",
+    "main.js.map": "/yaziturareact/static/js/main.5476e82f.chunk.js.map",
+    "runtime~main.js": "/yaziturareact/static/js/runtime~main.fea18aa2.js",
+    "runtime~main.js.map": "/yaziturareact/static/js/runtime~main.fea18aa2.js.map",
+    "static/js/2.2ecc874f.chunk.js": "/yaziturareact/static/js/2.2ecc874f.chunk.js",
+    "static/js/2.2ecc874f.chunk.js.map": "/yaziturareact/static/js/2.2ecc874f.chunk.js.map",
+    "index.html": "/yaziturareact/index.html",
+    "precache-manifest.53a900177e28f5b87026631c839a1314.js": "/yaziturareact/precache-manifest.53a900177e28f5b87026631c839a1314.js",
+    "service-worker.js": "/yaziturareact/service-worker.js",
+    "static/css/main.fea49381.chunk.css.map": "/yaziturareact/static/css/main.fea49381.chunk.css.map",
+    "static/media/1-lira-tura.png": "/yaziturareact/static/media/1-lira-tura.7c42669a.png",
+    "static/media/1-lira-yazi.png": "/yaziturareact/static/media/1-lira-yazi.9b70882e.png"
+  }
+}
